@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 sudo chown betty hello
-=======
-sudo chown hello betty
->>>>>>> 5f5b54a1b7deee971367865721551407cc0cca4b
